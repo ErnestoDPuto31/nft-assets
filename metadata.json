@@ -1,0 +1,8 @@
+{
+  "name": "MyFirstNFT",
+  "description": "This is my first NFT on Aptos",
+  "image": "https://your-hosted-image-url.com/image.png",
+  "attributes": [
+    { "trait_type": "Rarity", "value": "Legendary" }
+  ]
+}
